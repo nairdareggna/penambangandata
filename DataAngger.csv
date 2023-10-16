@@ -1,0 +1,11 @@
+Country,Age,Salary,Gender
+France,44,72000,Women
+Spain,27,48000,Man
+Germany,30,54000,Man
+Spain,38,61000,Man
+Germany,40,,Women
+France,35,58000,Women
+Spain,,52000,Women
+France,48,79000,Women
+Germany,50,83000,Man
+France,37,67000,Man
